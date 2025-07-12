@@ -1,0 +1,3 @@
+body { margin: 0; padding: 0; }
+#map { height: 100vh; width: 100%; }
+.sensor-info { padding: 10px; background: white; border-radius: 5px; }
